@@ -1,10 +1,10 @@
-# Desafio 1
+# Desafio 1..
 numero = int(input('Digite um número: '))
 sucessor = numero + 1
 antecessor = numero - 1
 print(f'O sucessor de {numero} é {sucessor} e o antecessor é {antecessor}')
 
-# Desafio 2
+# Desafio 2..
 
 nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))
